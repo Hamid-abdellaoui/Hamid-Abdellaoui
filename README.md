@@ -1,6 +1,5 @@
 # 💫About Me :
-Hi ! I am a data science student and a web development enthousiast
-
+Hi ! I am a future data scientist
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hamid__abdellaoui/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamid-abdellaoui/) 
 
