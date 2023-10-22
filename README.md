@@ -30,13 +30,13 @@ Hi ! I am a data scientist and Machine Learning engineer
          </td>
     </tr>
 </table>
-
-
-
 <br>
 
 ## ✍️Random Dev Quote
+<div align =center>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+</div>
+
+
 [![](https://visitcount.itsvg.in/api?id=Hamid-abdellaoui&icon=0&color=0)](https://visitcount.itsvg.in)
