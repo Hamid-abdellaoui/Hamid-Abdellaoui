@@ -1,6 +1,6 @@
 ## 💫About Me :
 
-Hi ! I am a Jr. data scientist and Machine Learning engineer
+Hi ! I am a Jr. Machine Learning engineer & Python developper
 <br>
 
 
